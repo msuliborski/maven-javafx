@@ -1,4 +1,4 @@
-package com.ife.module1;
+package com.example.module1;
 
 public class Main {
 

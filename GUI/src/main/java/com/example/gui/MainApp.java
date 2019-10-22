@@ -1,4 +1,4 @@
-package com.ife.gui;
+package com.example.gui;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
@@ -12,7 +12,7 @@ public class MainApp extends Application {
 
     @Override
     public void start(Stage stage) throws Exception {
-        URL location = getClass().getResource("/com/ife/gui/MainView.fxml");
+        URL location = getClass().getResource("/com/example/gui/MainView.fxml");
         FXMLLoader fxmlLoader = new FXMLLoader(location);
         Parent parent = fxmlLoader.load();
         Scene scene = new Scene(parent/*, 600, 100*/);

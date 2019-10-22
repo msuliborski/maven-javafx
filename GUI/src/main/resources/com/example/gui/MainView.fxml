@@ -8,7 +8,7 @@
 <?import javafx.scene.layout.VBox?>
 
 <VBox prefHeight="769.0" prefWidth="640.0" xmlns="http://javafx.com/javafx" xmlns:fx="http://javafx.com/fxml"
-      fx:controller="com.ife.gui.Screen">
+      fx:controller="com.example.gui.Screen">
     <children>
         <MenuBar VBox.vgrow="NEVER">
             <menus>

@@ -1,13 +1,12 @@
-package com.ife.gui;
+package com.example.gui;
 
-import com.ife.module2.Module2Hello;
 import javafx.fxml.FXML;
 import javafx.fxml.Initializable;
 import javafx.scene.control.*;
 import javafx.stage.Stage;
 
-import com.ife.module1.Module1Hello;
-import com.ife.module2.Module2Hello;
+import com.example.module1.Module1Hello;
+import com.example.module2.Module2Hello;
 
 import java.net.URL;
 import java.util.ResourceBundle;
